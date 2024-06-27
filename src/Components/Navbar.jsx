@@ -9,6 +9,7 @@ import { Box, Drawer, List, Divider, ListItem, ListItemButton, ListItemIcon, Lis
 
 const Navbar = () => {
   const [openMenu, setOpenMenu] = useState(false);
+
   const menuOptions = [
     {
       text: "Home",
@@ -49,15 +50,15 @@ const Navbar = () => {
         <Box
           sx={{ width: 250 }}
           role="presentation"
-          onClick={() => setOpenMenu(false)}
+          onClick={() => setOpenMenu(true)}
           onKeyDown={() => setOpenMenu(false)}
         >
           <List>
             {menuOptions.map((item) => (
               <ListItem key={item.text} disablePadding>
                 <ListItemButton>
-                  <ListItemIcon>{item.icon}</ListItemIcon>
-                  <ListItemText primary={item.text} />
+                  <ListItemIcon> {item.icon}</ListItemIcon>
+                  <a href={item.link} style={{ textDecoration: "none" }} ><ListItemText primary={item.text} /></a>
                 </ListItemButton>
               </ListItem>
             ))}
