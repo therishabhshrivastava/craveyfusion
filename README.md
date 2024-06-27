@@ -16,7 +16,7 @@ This is a Fully Responsive Page of a Restaurant. Coded in React .
 
 ## Demo 
 **Secreenshot 1** 
-![Screenshot 1](https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/1.png)
+!(https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/1.png)
 **Secreenshot 2** 
 ![Screenshot 2](https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/2.png)
 **Secreenshot 3** 
