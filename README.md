@@ -15,17 +15,17 @@ This is a Fully Responsive Page of a Restaurant. Coded in React .
 
 
 ## Demo 
-![](https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/1.png)
+<img src="https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/1.png" width="80%"  />
 
-![Screenshot 2](https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/2.png)
+<img src="https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/2.png" width="80%" />
 
-![Screenshot 3](https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/3.png)
+<img src="https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/3.png" width="80%" />
 
-<p float="left">
-  <img src="https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/4.jpg" width="100" />
-  <img src="https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/5.jpg" width="100" /> 
-  <img src="https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/6.jpg" width="100" />
+
+<p>
+  <img src="https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/4.jpg" width="26%" />
+  <img src="https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/5.jpg" width="27%" /> 
+  <img src="https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/6.jpg" width="26%" />
 </p>
-![Screenshot 4](https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/4.jpg) ![Screenshot 5](https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/5.jpg) ![Screenshot 6](https://github.com/therishabhshrivastava/craveyfusion/blob/main/src/Assets/6.jpg)
 
 
